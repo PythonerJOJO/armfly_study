@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "bsp_led.h": "c",
+            "common_inc.h": "c",
+            "bsp_test.h": "c",
+            "led.h": "c",
+            "bsp_config.h": "c",
+            "error.h": "c",
+            "errno.h": "c",
+            "key.h": "c",
+            "bsp_key.h": "c",
+            "usart.h": "c",
+            "stm32f4xx_hal.h": "c",
+            "dma.h": "c",
+            "bsp_uart.h": "c",
+            "stdio.h": "c",
+            "stdint.h": "c"
+        },
+        "marscode.chatLanguage": "cn"
+    },
+    "extensions": {}
+}
